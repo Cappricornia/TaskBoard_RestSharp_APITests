@@ -137,7 +137,6 @@ namespace RestSharpAPITests
             Assert.That(taskObj.task.dateCreated, Is.Not.Empty);
             Assert.That(taskObj.task.dateModified, Is.Not.Empty);
 
-
         }
 
     }
